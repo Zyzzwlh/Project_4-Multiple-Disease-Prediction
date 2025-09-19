@@ -90,10 +90,10 @@ streamlit run app/streamlit_app.py
 ## 📷 Screenshots
 
 ### Streamlit Prediction
-![Prediction Example](https://via.placeholder.com/600x300?text=Prediction+Example)
+
 
 ### Power BI Dashboard
-![Power BI Dashboard](https://via.placeholder.com/600x300?text=PowerBI+Report)
+
 
 ---
 
