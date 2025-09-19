@@ -8,11 +8,10 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-gray?logo=python&logoColor=white&labelColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-gray?logo=pandas&logoColor=white&labelColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-gray?logo=matplotlib&logoColor=white&labelColor=11557c)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualizations-gray?logo=seaborn&logoColor=white&labelColor=1F77B4)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualizations-gray?logo=plotly&logoColor=white&labelColor=11557c)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-gray?logo=numpy&logoColor=white&labelColor=013243)
+![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Analysis-gray?logo=scipy&logoColor=white&labelColor=8C5E9C)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-gray?logo=scikit-learn&logoColor=white&labelColor=f89939)
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-gray?logo=xgboost&logoColor=white&labelColor=2E8B57)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-gray?logo=streamlit&logoColor=white&labelColor=FF4B4B)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-gray?logo=power-bi&logoColor=white&labelColor=F2C811)
 
