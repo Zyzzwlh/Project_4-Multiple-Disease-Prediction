@@ -56,8 +56,8 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/multiple-disease-prediction.git
-cd multiple-disease-prediction
+git clone https://github.com/Infant-Joshva/Project_4-Multiple-Disease-Prediction.git
+cd Project_4-Multiple-Disease-Prediction
 ```
 
 2. Install dependencies  
