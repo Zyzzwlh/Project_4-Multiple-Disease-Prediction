@@ -81,7 +81,7 @@ streamlit run app/streamlit_app.py
 - **Machine Learning Models**: Trained using Logistic Regression, Random Forest, and XGBoost for robust predictions.  
 - **Interactive Streamlit App**: Users can input personal health data and instantly receive disease probability and risk level.  
 - **Power BI Dashboard**: Visualizes correlations, trends, and risk factors to support decision-making.  
-- **Model Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC, MAE, RMSE (if regression used).  
+- **Model Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC, MAE, RMSE.  
 - **Scalable & Secure**: Designed to handle multiple users and ensure privacy of sensitive health data.  
 - **Visual Insights**: Graphs and charts showing feature importance, probability distributions, and high-risk patient identification.  
 
