@@ -23,9 +23,15 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 ```
 📂 multiple-disease-prediction
 ├── 📁 data/
-│   ├── kidney_disease.csv
-│   ├── indian_liver_patient.csv
-│   └── parkinsons.csv
+│   ├── 📁 raw/
+│   │   ├── kidney_disease.csv
+│   │   ├── liver_disease.csv
+│   │   └── parkinsons_disease.csv
+│   │
+│   ├── 📁 cleaned/
+│   │   ├── kidney_disease_cleaned.csv
+│   │   ├── liver_disease_cleaned.csv
+│   │   └── parkinsons_disease_cleaned.csv
 │
 ├── 📁 notebooks/
 │   ├── Kidney_Disease_Prediction.ipynb
@@ -48,6 +54,7 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
 ```
 
 ---
