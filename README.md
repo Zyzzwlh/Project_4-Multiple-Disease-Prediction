@@ -33,7 +33,7 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 │   │   ├── liver_disease_cleaned.csv
 │   │   └── parkinsons_disease_cleaned.csv
 │
-├── 📁 notebooks/                     # Jupyter notebooks for EDA & modeling
+├── 📁 notebooks/                     # google colab notebooks for EDA & modeling
 │   ├── Kidney_Disease_Prediction.ipynb
 │   ├── Liver_Disease_Prediction.ipynb
 │   ├── Parkinsons_Prediction.ipynb
