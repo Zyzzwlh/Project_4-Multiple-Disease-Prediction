@@ -37,7 +37,6 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 │   ├── Kidney_Disease_Prediction.ipynb
 │   ├── Liver_Disease_Prediction.ipynb
 │   ├── Parkinsons_Prediction.ipynb
-│   └── Multiple_Disease_Prediction.ipynb
 │
 ├── 📁 models/
 │   ├── kidney_model.pkl
