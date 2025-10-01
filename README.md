@@ -46,6 +46,8 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 ├── 📁 app/
 │   └── streamlit_app.py
 │
+├── 📁 video/
+│   └── project_demo.mp4  # Project demo video
 │
 ├── requirements.txt
 ├── README.md
