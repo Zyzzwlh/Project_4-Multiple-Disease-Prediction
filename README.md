@@ -46,8 +46,6 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 ├── 📁 app/
 │   └── streamlit_app.py
 │
-├── 📁 powerbi_report/
-│   └── Disease_Insights.pbix
 │
 ├── requirements.txt
 ├── README.md
@@ -75,9 +73,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app/streamlit_app.py
 ```
-
-4. Explore Power BI dashboards in `powerbi_report/` for deeper insights.
-
 ---
 
 ## 📊 Features
@@ -85,8 +80,7 @@ streamlit run app/streamlit_app.py
 - **Multi-Disease Prediction**: Predicts Kidney, Liver, and Parkinson’s disease probability based on user-provided symptoms, demographics, and test results.  
 - **Data Preprocessing**: Handles missing values, encodes categorical features, and scales numerical data to improve model accuracy.  
 - **Machine Learning Models**: Trained using Logistic Regression, Random Forest, and XGBoost for robust predictions.  
-- **Interactive Streamlit App**: Users can input personal health data and instantly receive disease probability and risk level.  
-- **Power BI Dashboard**: Visualizes correlations, trends, and risk factors to support decision-making.  
+- **Interactive Streamlit App**: Users can input personal health data and instantly receive disease probability and risk level.
 - **Model Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC, MAE, RMSE.  
 - **Scalable & Secure**: Designed to handle multiple users and ensure privacy of sensitive health data.  
 - **Visual Insights**: Graphs and charts showing feature importance, probability distributions, and high-risk patient identification.  
@@ -96,10 +90,6 @@ streamlit run app/streamlit_app.py
 ## 📷 Screenshots
 
 ### Streamlit Prediction
-
-
-### Power BI Dashboard
-
 
 ---
 
