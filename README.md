@@ -23,31 +23,37 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 ```
 📂 multiple-disease-prediction
 ├── 📁 data/
-│   ├── kidney_disease.csv
-│   ├── indian_liver_patient.csv
-│   └── parkinsons.csv
+│   ├── 📁 raw/                       # Original/raw datasets
+│   │   ├── kidney_disease.csv
+│   │   ├── liver_disease.csv
+│   │   └── parkinsons_disease.csv
+│   │
+│   ├── 📁 cleaned/                   # Cleaned/preprocessed datasets
+│   │   ├── kidney_disease_cleaned.csv
+│   │   ├── liver_disease_cleaned.csv
+│   │   └── parkinsons_disease_cleaned.csv
 │
-├── 📁 notebooks/
+├── 📁 notebooks/                     # google colab notebooks for EDA & modeling
 │   ├── Kidney_Disease_Prediction.ipynb
 │   ├── Liver_Disease_Prediction.ipynb
 │   ├── Parkinsons_Prediction.ipynb
-│   └── Multiple_Disease_Prediction.ipynb
 │
-├── 📁 models/
+├── 📁 models/                        # Trained ML models (saved as pickle files)
 │   ├── kidney_model.pkl
 │   ├── liver_model.pkl
 │   └── parkinsons_model.pkl
 │
-├── 📁 app/
+├── 📁 app/                           # Streamlit application code
 │   └── streamlit_app.py
 │
-├── 📁 powerbi_report/
-│   └── Disease_Insights.pbix
+├── 📁 video/                         # Project demo video
+│   └── project_demo.mp4
 │
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── LICENSE
+├── requirements.txt                  # Python dependencies
+├── README.md                         # Project documentation
+├── .gitignore                        # Ignore unnecessary files in git
+└── LICENSE                           # Open-source license for project
+
 ```
 
 ---
@@ -69,9 +75,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app/streamlit_app.py
 ```
-
-4. Explore Power BI dashboards in `powerbi_report/` for deeper insights.
-
 ---
 
 ## 📊 Features
@@ -79,8 +82,7 @@ streamlit run app/streamlit_app.py
 - **Multi-Disease Prediction**: Predicts Kidney, Liver, and Parkinson’s disease probability based on user-provided symptoms, demographics, and test results.  
 - **Data Preprocessing**: Handles missing values, encodes categorical features, and scales numerical data to improve model accuracy.  
 - **Machine Learning Models**: Trained using Logistic Regression, Random Forest, and XGBoost for robust predictions.  
-- **Interactive Streamlit App**: Users can input personal health data and instantly receive disease probability and risk level.  
-- **Power BI Dashboard**: Visualizes correlations, trends, and risk factors to support decision-making.  
+- **Interactive Streamlit App**: Users can input personal health data and instantly receive disease probability and risk level.
 - **Model Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC, MAE, RMSE.  
 - **Scalable & Secure**: Designed to handle multiple users and ensure privacy of sensitive health data.  
 - **Visual Insights**: Graphs and charts showing feature importance, probability distributions, and high-risk patient identification.  
@@ -90,10 +92,6 @@ streamlit run app/streamlit_app.py
 ## 📷 Screenshots
 
 ### Streamlit Prediction
-
-
-### Power BI Dashboard
-
 
 ---
 
