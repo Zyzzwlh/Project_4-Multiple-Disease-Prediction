@@ -22,6 +22,10 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 
 ```
 📂 multiple-disease-prediction
+|
+├── 📁 app/                           # Streamlit application code
+│   └── streamlit_app.py
+|
 ├── 📁 data/
 │   ├── 📁 raw/                       # Original/raw datasets
 │   │   ├── kidney_disease.csv
@@ -33,18 +37,15 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 │   │   ├── liver_disease_cleaned.csv
 │   │   └── parkinsons_disease_cleaned.csv
 │
-├── 📁 notebooks/                     # google colab notebooks for EDA & modeling
-│   ├── Kidney_Disease_Prediction.ipynb
-│   ├── Liver_Disease_Prediction.ipynb
-│   ├── Parkinsons_Prediction.ipynb
-│
 ├── 📁 models/                        # Trained ML models (saved as pickle files)
 │   ├── kidney_model.pkl
 │   ├── liver_model.pkl
 │   └── parkinsons_model.pkl
-│
-├── 📁 app/                           # Streamlit application code
-│   └── streamlit_app.py
+|
+├── 📁 notebooks/                     # google colab notebooks for EDA & modeling
+│   ├── Kidney_Disease_Prediction.ipynb
+│   ├── Liver_Disease_Prediction.ipynb
+│   ├── Parkinsons_Prediction.ipynb
 │
 ├── 📁 video/                         # Project demo video
 │   └── project_demo.mp4
